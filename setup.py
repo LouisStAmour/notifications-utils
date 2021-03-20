@@ -29,7 +29,7 @@ setup(
         'python-json-logger==0.1.11',
         'Flask>=1.0.3',
         'orderedset==2.0.1',
-        'Jinja2==2.11.0',
+        'Jinja2==2.11.3',
         'statsd==3.3.0',
         'Flask-Redis==0.4.0',
         'pyyaml==5.3.1',
