@@ -37,7 +37,7 @@ setup(
         'pytz==2019.3',
         'smartypants==2.0.1',
         'monotonic==1.5',
-        'pypdf2==1.26.0',
+        'pypdf2==1.27.5',
         'itsdangerous==1.1.0',
         'govuk-bank-holidays==0.6',
 
