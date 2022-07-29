@@ -24,7 +24,7 @@ setup(
     include_package_data=True,
     install_requires=[
         'bleach==3.1.4',
-        'mistune==0.8.4',
+        'mistune==2.0.3',
         'requests==2.22.0',
         'python-json-logger==0.1.11',
         'Flask>=1.0.3',
